@@ -1,0 +1,11 @@
+{
+  "name": "basic-node-server",
+  "version": "1.0.0",
+  "description": "Basic Node.js server running on port 3002",
+  "type": "module",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js"
+  }
+}
